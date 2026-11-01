@@ -1,0 +1,51 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+    margin: 23px;
+}
+header{
+    background-color:navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+nav {
+    background-color: grey;
+    padding: 12px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 12px;}
+h2 {
+    color:grey;
+}
+
+p {
+    font-size: 16px;
+}
+
+table {
+    background-color: white;
+    width: 80%;
+}
+
+th {
+    background-color: grey;
+    color: white;
+}
+
+td {
+    text-align: center;
+}
+
+form {
+    background-color: #ead5b8;
+    padding: 20px;
+    width: 350px;
+}
+
+
